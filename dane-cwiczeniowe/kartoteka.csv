@@ -1,0 +1,15 @@
+﻿indeks;nazwa;ean;jednostka;opakowanie_zbiorcze;cena_katalogowa_netto;grupa_rabatowa;status;zamiennik
+RUR-PP-20;Rura PP-R PN20 fi 20 × 4 m;5901234500017;szt;25;9.8;A;aktywny;
+RUR-PP-25;Rura PP-R PN20 fi 25 × 4 m;5901234500024;szt;20;14.6;A;aktywny;
+KOL-PP-20;Kolano PP-R 90° fi 20;5901234500031;szt;100;0.95;A;aktywny;
+KOL-PP-25;Kolano PP-R 90° fi 25;5901234500048;szt;100;1.45;A;aktywny;
+ZAW-KUL-12;"Zawór kulowy 1/2"" GW-GW motylek";5901234500055;szt;10;18.9;B;wycofany;ZAW-KUL-12N
+ZAW-KUL-12N;"Zawór kulowy 1/2"" GW-GW motylek, seria N";5901234500062;szt;10;19.4;B;aktywny;
+ZAW-KUL-34;"Zawór kulowy 3/4"" GW-GW motylek";5901234500079;szt;10;27.5;B;aktywny;
+GRZ-22-600;Grzejnik płytowy C22 600 × 1000;5901234500086;szt;1;412.0;C;aktywny;
+GRZ-22-800;Grzejnik płytowy C22 600 × 800;5901234500093;szt;1;356.0;C;aktywny;
+ZAW-TER-15;"Zawór termostatyczny prosty 1/2""";5901234500109;szt;10;32.0;B;aktywny;
+GLW-TER;Głowica termostatyczna M30;5901234500116;szt;10;38.5;B;aktywny;
+IZO-22;Otulina izolacyjna 22/9 mm × 2 m;5901234500123;szt;50;2.1;A;aktywny;
+UCH-20;Uchwyt rury pojedynczy fi 20;5901234500130;szt;100;0.45;A;aktywny;
+PMP-25-60;Pompa obiegowa elektroniczna 25-60 180;5901234500147;szt;1;689.0;C;aktywny;

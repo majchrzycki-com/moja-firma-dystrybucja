@@ -1,0 +1,6 @@
+﻿klient_id;nazwa;termin_platnosci_dni;limit_kredytowy_pln;saldo_naleznosci_pln;w_tym_przeterminowane_pln;najstarsza_zaleglosc_dni;rabat_grupa_A_proc;rabat_grupa_B_proc;rabat_grupa_C_proc;opiekun
+K-0107;Instal-Serwis Nowak sp. j.;30;60000;48200;6100;18;10;8;5;Marek Zieliński
+K-0112;Hydro-Bud sp. z o.o.;45;120000;31000;0;0;12;10;6;Marek Zieliński
+K-0145;Termo-Dom Kowalczyk;21;25000;4300;0;0;8;6;3;Ewa Lis
+K-0203;Grupa Instalacyjna Wschód sp. z o.o.;60;250000;212000;41000;52;14;12;8;Ewa Lis
+K-0218;Pol-Ciepło s.c.;30;40000;12500;2500;9;10;8;5;Ewa Lis

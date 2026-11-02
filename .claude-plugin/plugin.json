@@ -1,0 +1,19 @@
+{
+  "name": "moja-firma-dystrybucja",
+  "version": "0.1.0",
+  "description": "Agent zamówień B2B dla polskiej firmy (dystrybucja i hurt B2B). Czyta zamówienie klienta z PDF, dopasowuje pozycje do kartoteki, sprawdza stany, liczy wartość według umowy i limit kredytowy, a na końcu oddaje szkic zamówienia z listą wyjątków do decyzji.",
+  "author": {
+    "name": "Krzysztof Majchrzycki",
+    "url": "https://majchrzycki.com"
+  },
+  "homepage": "https://majchrzycki.com/blog/agent-zamowien-b2b-w-claude-krok-po-kroku?utm_source=github&utm_medium=referral&utm_campaign=moja-firma&utm_content=zamowienie-b2b",
+  "repository": "https://github.com/majchrzycki-com/moja-firma-dystrybucja",
+  "license": "MIT",
+  "keywords": [
+    "msp",
+    "polska",
+    "zamowienie-b2b",
+    "agent-skills",
+    "skill-md"
+  ]
+}
