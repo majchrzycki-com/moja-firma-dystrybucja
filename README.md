@@ -2,7 +2,7 @@
 
 **Agent zamówień B2B dla polskiej firmy: dystrybucja i hurt B2B.** Czyta zamówienie klienta z PDF, dopasowuje pozycje do kartoteki, sprawdza stany, liczy wartość według umowy i limit kredytowy, a na końcu oddaje szkic zamówienia z listą wyjątków do decyzji.
 
-Pakiet branżowy paczki [moja-firma](https://github.com/majchrzycki-com/moja-firma). Procedura w formacie [Agent Skills](https://agentskills.io/specification) (`SKILL.md`) działa w Claude, ChatGPT i Codex, Microsoft 365 Copilot, Gemini oraz OpenClaw.
+Pakiet branżowy paczki [moja-firma](https://github.com/majchrzycki-com/moja-firma). Procedura w formacie [Agent Skills](https://agentskills.io/specification) (`SKILL.md`) działa w Anthropic Claude, OpenAI ChatGPT i OpenAI Codex, Microsoft 365 Copilot, Google Gemini oraz OpenClaw.
 
 ## Czego agent nie zrobi
 
@@ -28,7 +28,7 @@ Nowe zamówienie od klienta. Przeprowadź analizę według instrukcji projektu, 
 
 ## Instalacja
 
-### Claude Code
+### Anthropic Claude Code
 
 ```text
 /plugin marketplace add majchrzycki-com/moja-firma
@@ -41,14 +41,14 @@ Nowe zamówienie od klienta. Przeprowadź analizę według instrukcji projektu, 
 node scripts/build.mjs
 ```
 
-Skrypt tworzy `dist/skills/` dla Claude, Codex, OpenClaw i Copilot Cowork oraz `dist/instrukcje/` z tekstem do wklejenia w agencie Microsoft 365 Copilot, Gemie albo projekcie ChatGPT. Szczegóły instalacji w każdym narzędziu: [README rdzenia moja-firma](https://github.com/majchrzycki-com/moja-firma#instalacja).
+Skrypt tworzy `dist/skills/` dla Anthropic Claude, OpenAI Codex, OpenClaw i Microsoft 365 Copilot Cowork oraz `dist/instrukcje/` z tekstem do wklejenia w agencie Microsoft 365 Copilot, Gemie Google Gemini albo projekcie OpenAI ChatGPT. Szczegóły instalacji w każdym narzędziu: [README rdzenia moja-firma](https://github.com/majchrzycki-com/moja-firma#instalacja).
 
 ## Ten sam agent krok po kroku
 
-- [Agent zamówień B2B w Claude](https://majchrzycki.com/blog/agent-zamowien-b2b-w-claude-krok-po-kroku?utm_source=github&utm_medium=referral&utm_campaign=moja-firma&utm_content=zamowienie-b2b)
+- [Agent zamówień B2B w Anthropic Claude](https://majchrzycki.com/blog/agent-zamowien-b2b-w-claude-krok-po-kroku?utm_source=github&utm_medium=referral&utm_campaign=moja-firma&utm_content=zamowienie-b2b)
 - [Agent zamówień B2B w Microsoft 365 Copilot](https://majchrzycki.com/blog/agent-zamowien-b2b-w-microsoft-365-copilot-krok-po-kroku?utm_source=github&utm_medium=referral&utm_campaign=moja-firma&utm_content=zamowienie-b2b)
-- [Agent zamówień B2B w ChatGPT](https://majchrzycki.com/blog/agent-zamowien-b2b-w-chatgpt-krok-po-kroku?utm_source=github&utm_medium=referral&utm_campaign=moja-firma&utm_content=zamowienie-b2b)
-- [Agent zamówień B2B w Gemini](https://majchrzycki.com/blog/agent-zamowien-b2b-w-gemini-krok-po-kroku?utm_source=github&utm_medium=referral&utm_campaign=moja-firma&utm_content=zamowienie-b2b)
+- [Agent zamówień B2B w OpenAI ChatGPT](https://majchrzycki.com/blog/agent-zamowien-b2b-w-chatgpt-krok-po-kroku?utm_source=github&utm_medium=referral&utm_campaign=moja-firma&utm_content=zamowienie-b2b)
+- [Agent zamówień B2B w Google Gemini](https://majchrzycki.com/blog/agent-zamowien-b2b-w-gemini-krok-po-kroku?utm_source=github&utm_medium=referral&utm_campaign=moja-firma&utm_content=zamowienie-b2b)
 
 Gdzie ten agent mieści się w całej firmie i jakich jeszcze agentów potrzebuje dystrybucja i hurt B2B: [darmowy poradnik branżowy](https://majchrzycki.com/transformacja-agenci-ai/dystrybucja-hurt-b2b?utm_source=github&utm_medium=referral&utm_campaign=moja-firma&utm_content=zamowienie-b2b#pobierz).
 
