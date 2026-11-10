@@ -1,6 +1,6 @@
 ---
 name: zamowienie-b2b
-description: Analizuje zamówienie klienta hurtowni lub dystrybutora (PDF): dopasowuje linie do kartoteki po EAN, indeksie i opisie z porównaniem wymiarów, sprawdza stany, liczy wartość według rabatów umownych, termin płatności i limit kredytowy, i oddaje szkic zamówienia z listą wyjątków do decyzji. Użyj, gdy przychodzi zamówienie B2B, przy rabacie spoza umowy, przekroczonym limicie kupieckim, wycofanym indeksie albo brakach magazynowych.
+description: "Analizuje zamówienie klienta hurtowni lub dystrybutora (PDF): dopasowuje linie do kartoteki po EAN, indeksie i opisie z porównaniem wymiarów, sprawdza stany, liczy wartość według rabatów umownych, termin płatności i limit kredytowy, i oddaje szkic zamówienia z listą wyjątków do decyzji. Użyj, gdy przychodzi zamówienie B2B, przy rabacie spoza umowy, przekroczonym limicie kupieckim, wycofanym indeksie albo brakach magazynowych."
 license: MIT
 metadata:
   autor: Krzysztof Majchrzycki
